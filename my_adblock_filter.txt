@@ -1,1 +1,7 @@
-
+m.soha.vn###adm-slot-7299
+m.genk.vn###adm-slot-7269
+androidpolice.com##div.fEy1Z2XT:nth-child(41)
+gamerant.com##div:nth-child(26) > div.bOvWNQ:last-child > div.ghwPHX:first-child > div.duogaR
+we25.vn##div.div-em:nth-child(10) > div.bgal_popndungalal1:last-child > a:last-child > img
+bongdaplus.vn##main:nth-child(15) > div.containr:first-child > div.row:first-child > div.col.w69:first-child > div.details:first-child > iframe:nth-child(9)
+bongdaplus.vn###postContent > div.ad__interscroller:nth-child(6) > div:first-child > div.ad__box > iframe
