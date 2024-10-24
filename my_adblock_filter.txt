@@ -5,3 +5,6 @@ gamerant.com##div:nth-child(26) > div.bOvWNQ:last-child > div.ghwPHX:first-child
 we25.vn##div.div-em:nth-child(10) > div.bgal_popndungalal1:last-child > a:last-child > img
 bongdaplus.vn##main:nth-child(15) > div.containr:first-child > div.row:first-child > div.col.w69:first-child > div.details:first-child > iframe:nth-child(9)
 bongdaplus.vn###postContent > div.ad__interscroller:nth-child(6) > div:first-child > div.ad__box > iframe
+*/partner.ads.js
+*/ads.js
+reddit.com##.promotedlink
