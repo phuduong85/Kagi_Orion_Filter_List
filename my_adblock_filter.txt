@@ -1,3 +1,6 @@
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(105)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(18)
+
 m.soha.vn###adm-slot-7299
 m.genk.vn###adm-slot-7269
 androidpolice.com##div.fEy1Z2XT:nth-child(41)
