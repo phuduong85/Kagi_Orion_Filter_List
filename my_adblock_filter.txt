@@ -1,5 +1,20 @@
+fox4news.com###wrapper > footer.site-footer:last-child > div.site-banner.slide-in.is-blue.is-bottom.is-large.is-single:first-child
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(148)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(135)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(126)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(120)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(113)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(98)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(91)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(82)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(74)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(69)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(58)
+game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(54)
 game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(105)
 game8.co##div.l-content:nth-child(11) > div.l-container.js-comment-popup-container:last-child > div.archive-style-wrapper:nth-child(6) > div.mv-ad-box:nth-child(18)
+
+
 
 m.soha.vn###adm-slot-7299
 m.genk.vn###adm-slot-7269
